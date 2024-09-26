@@ -1,3 +1,5 @@
+--- código principal
+
 INSERT INTO filmes (titulo, ano_lancamento, duracao, classificacao, diretor_id)
 VALUES
 ('O Silêncio', 2019, 90, '16 anos', 1),
